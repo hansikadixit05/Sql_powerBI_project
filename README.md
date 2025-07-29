@@ -63,4 +63,4 @@ If you want to try this project with your own dataset or want a walkthrough, fee
 ---
 
 ## 📊 Dashboard Screen Sample
-
+![Dashboard Preview](https://github.com/hansikadixit05/Sql_powerBI_project/blob/main/Pizza_dashboard_ss.png)
